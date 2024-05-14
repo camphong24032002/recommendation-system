@@ -1,5 +1,7 @@
 # Fashion Product Recommendation System
 
+![UI](/static/UI.png)
+
 ## Dataset
 
 This system uses the dataset from [kaggle](https://www.kaggle.com/datasets/shivamb/fashion-clothing-products-catalog).
@@ -41,3 +43,6 @@ pip install -r requirements.txt
 python main.py
 ```
 - Finally, please enter your query, and the recommendation system will generate a list of the top five products that most closely match your specifications.
+
+## Deploy
+[Huggingface](https://huggingface.co/spaces/camphong/recommendation-system)
